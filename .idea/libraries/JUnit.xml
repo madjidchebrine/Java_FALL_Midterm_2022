@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JUnit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WeekendMorning_Java_Midterm_Fall2022/JarFiles/JUnit/junit-4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WeekendMorning_Java_Midterm_Fall2022/JarFiles/JUnit/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WeekendMorning_Java_Midterm_Fall2022/JarFiles/JUnit/testng-6.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
